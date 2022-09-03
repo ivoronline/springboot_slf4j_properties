@@ -1,0 +1,3 @@
+My File Log: 2022-09-03 21:29:33,386 ERROR MyController Some error occured 
+My File Log: 2022-09-03 21:29:33,387 WARN MyController Some warn  occured 
+My File Log: 2022-09-03 21:29:33,387 INFO MyController Some info  occured 
